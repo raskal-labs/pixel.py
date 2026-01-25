@@ -1,0 +1,9 @@
+{
+  "name": "test-green",
+  "colors": [
+    { "hex": "#0F380F" },
+    { "hex": "#306230" },
+    { "hex": "#8BAC0F" },
+    { "hex": "#9BBC0F" }
+  ]
+}

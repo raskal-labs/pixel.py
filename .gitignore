@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local / generated
+tests/output/
+tests/input/jb_icons_working/
+pixelpy_outputs_and_script.zip
+
+# Backups (keep locally, not in git)
+pixel.py.bak*
+pixel.py.canonical
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo

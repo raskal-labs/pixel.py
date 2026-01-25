@@ -1,0 +1,10 @@
+{
+  "name": "gbc-default",
+  "system": "gbc",
+  "colors": [
+    { "hex": "#000000" },
+    { "hex": "#555555" },
+    { "hex": "#AAAAAA" },
+    { "hex": "#FFFFFF" }
+  ]
+}

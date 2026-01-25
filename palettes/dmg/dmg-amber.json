@@ -1,0 +1,10 @@
+{
+  "name": "dmg-amber",
+  "system": "dmg",
+  "colors": [
+    { "hex": "#2A0F00" },
+    { "hex": "#7A2F00" },
+    { "hex": "#D46A00" },
+    { "hex": "#FFD27A" }
+  ]
+}

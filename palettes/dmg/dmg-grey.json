@@ -1,0 +1,10 @@
+{
+  "name": "dmg-grey",
+  "system": "dmg",
+  "colors": [
+    { "hex": "#0E0E0E" },
+    { "hex": "#5A5A5A" },
+    { "hex": "#A0A0A0" },
+    { "hex": "#E0E0E0" }
+  ]
+}

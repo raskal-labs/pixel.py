@@ -1,0 +1,10 @@
+{
+  "name": "dmg-pink",
+  "system": "dmg",
+  "colors": [
+    { "hex": "#2A0014" },
+    { "hex": "#6A0030" },
+    { "hex": "#C04078" },
+    { "hex": "#FFD1E8" }
+  ]
+}

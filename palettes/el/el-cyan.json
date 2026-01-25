@@ -1,0 +1,10 @@
+{
+  "name": "el-cyan",
+  "system": "el",
+  "colors": [
+    { "hex": "#001010" },
+    { "hex": "#004040" },
+    { "hex": "#00A0A0" },
+    { "hex": "#80FFFF" }
+  ]
+}
