@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 
 # Local / generated
+tests/
 tests/output/
 tests/input/jb_icons_working/
 pixelpy_outputs_and_script.zip
