@@ -11,6 +11,7 @@ pixelpy_outputs_and_script.zip
 # Backups (keep locally, not in git)
 pixel.py.bak*
 pixel.py.canonical
+_history/
 
 # OS / editor
 .DS_Store
